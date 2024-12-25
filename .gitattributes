@@ -1,2 +1,10 @@
-# Normalize EOL for all files that Git considers text files.
-* text=auto eol=lf
+# Ensure text files use LF line endings
+*.txt text=auto eol=lf
+*.md text=auto eol=lf
+*.cfg text=auto eol=lf
+
+# Binary files should not have line endings converted
+*.png binary
+*.jpg binary
+*.ogg binary
+*.wav binary
