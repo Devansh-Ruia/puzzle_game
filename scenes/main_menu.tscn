@@ -1,3 +1,47 @@
 [gd_scene format=3 uid="uid://lj1novj6g5nr"]
 
-[node name="MainMenu" type="Node2D"]
+[node name="Root" type="Node"]
+
+[node name="GameManager" type="Node" parent="."]
+
+[node name="LevelLoader" type="Node" parent="GameManager"]
+
+[node name="DialogueManager" type="Node" parent="GameManager"]
+
+[node name="TimeManager" type="Node" parent="GameManager"]
+
+[node name="SaveLoadManager" type="Node" parent="GameManager"]
+
+[node name="AudioManager" type="Node" parent="GameManager"]
+
+[node name="UIManager" type="Control" parent="GameManager"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="MainMenu" type="Control" parent="GameManager/UIManager"]
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="PauseMenu" type="Control" parent="GameManager/UIManager"]
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="HUD" type="Control" parent="GameManager/UIManager"]
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="DialogueBox" type="Control" parent="GameManager/UIManager"]
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Global" type="Node" parent="."]
+
+[node name="Camera" type="Camera2D" parent="."]
+
+[node name="EventBus" type="Node" parent="."]

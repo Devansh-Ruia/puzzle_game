@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://c0idro6kncljr"]
+
+[node name="ExplosionEffect" type="Node2D"]

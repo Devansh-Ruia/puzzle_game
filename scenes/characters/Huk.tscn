@@ -1,0 +1,29 @@
+[gd_scene format=3 uid="uid://dlyyarvflnnhe"]
+
+[node name="LevelRoot" type="Node2D"]
+
+[node name="Environment" type="Node2D" parent="."]
+
+[node name="Background" type="Sprite2D" parent="Environment"]
+
+[node name="Foreground" type="Sprite2D" parent="Environment"]
+
+[node name="PuzzleManager" type="Node" parent="."]
+
+[node name="ClueSystem" type="Node" parent="PuzzleManager"]
+
+[node name="TriggerAreas" type="Area2D" parent="PuzzleManager"]
+
+[node name="Player" type="CharacterBody2D" parent="."]
+
+[node name="DialogueTriggers" type="Area2D" parent="."]
+
+[node name="Cameras" type="Camera2D" parent="."]
+
+[node name="Effects" type="GPUParticles2D" parent="."]
+
+[node name="UIOverlay" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
