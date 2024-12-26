@@ -1,6 +1,6 @@
 extends Node
 
-var currentPlayer = "Rorschach"
+var currentPlayer = "Huk"
 var gameState = "running"
 var inventory = []
 
