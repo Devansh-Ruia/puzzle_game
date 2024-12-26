@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cqf42mlb6lmsy"
-path="res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex"
+uid="uid://dy344g5oj7we4"
+path="res://.godot/imported/flip-vertical.svg-a52f9864d6ec78bbb8fa4ebefcefa84f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://icon.svg"
-dest_files=["res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex"]
+source_file="res://addons/net.yarvis.pixel_pen/resources/icon/flip-vertical.svg"
+dest_files=["res://.godot/imported/flip-vertical.svg-a52f9864d6ec78bbb8fa4ebefcefa84f.ctex"]
 
 [params]
 

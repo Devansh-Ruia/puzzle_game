@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cqf42mlb6lmsy"
-path="res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex"
+uid="uid://brv0jafi5beld"
+path="res://.godot/imported/step-backward.svg-d71ee66c90f5a1e3317dc6ceccfba4d2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://icon.svg"
-dest_files=["res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex"]
+source_file="res://addons/net.yarvis.pixel_pen/resources/icon/step-backward.svg"
+dest_files=["res://.godot/imported/step-backward.svg-d71ee66c90f5a1e3317dc6ceccfba4d2.ctex"]
 
 [params]
 

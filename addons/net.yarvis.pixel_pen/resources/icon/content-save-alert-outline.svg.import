@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cqf42mlb6lmsy"
-path="res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex"
+uid="uid://co3q7isuo5s4s"
+path="res://.godot/imported/content-save-alert-outline.svg-1b30b9d3aafb4d21a46f7e3ee2421bf1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://icon.svg"
-dest_files=["res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex"]
+source_file="res://addons/net.yarvis.pixel_pen/resources/icon/content-save-alert-outline.svg"
+dest_files=["res://.godot/imported/content-save-alert-outline.svg-1b30b9d3aafb4d21a46f7e3ee2421bf1.ctex"]
 
 [params]
 

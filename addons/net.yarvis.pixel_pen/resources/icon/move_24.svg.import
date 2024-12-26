@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cqf42mlb6lmsy"
-path="res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex"
+uid="uid://b6ji5ap5dqm43"
+path="res://.godot/imported/move_24.svg-1ed09ac7c6465bcb89f66282818f916f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://icon.svg"
-dest_files=["res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex"]
+source_file="res://addons/net.yarvis.pixel_pen/resources/icon/move_24.svg"
+dest_files=["res://.godot/imported/move_24.svg-1ed09ac7c6465bcb89f66282818f916f.ctex"]
 
 [params]
 
